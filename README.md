@@ -1,5 +1,5 @@
 # Cobb Douglas Function
-In economics and econometrics, the Cobb{Douglas production function is a particular
+In economics and econometrics, the Cobb Douglas production function is a particular
 functional form of the production function, widely used to represent the
 technological relationship between the amounts of two or more inputs (particularly
 physical capital and labor) and the amount of output that can be produced
@@ -11,10 +11,10 @@ increase in output.
 Sometimes the term has a more restricted meaning, requiring that the function
 display constant returns to scale, meaning that doubling the usage of capital
 K and labor L will also double output Y. This holds if
- +  = 1;
+\alpha + \beta = 1;
 If
- +  < 1;
+\alpha + \beta < 1;
 returns to scale are decreasing, and if
- +  > 1;
-returns to scale are increasing. Assuming perfect competition and + = 1, 
-and  can be shown to be capital's and labor's shares of output.
+\alpha + \beta > 1;
+returns to scale are increasing. Assuming perfect competition and \alpha + \beta = 1, \alpha
+and \beta can be shown to be capital's and labor's shares of output.
